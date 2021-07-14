@@ -6,3 +6,5 @@ Projekt do testów GITa
 
 3.wpis user2
 4.wpis user2
+
+5.wpis user 2
