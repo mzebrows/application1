@@ -1,1 +1,3 @@
 Projekt do testów GITa
+
+1.wpis od user 1
