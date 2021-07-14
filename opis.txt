@@ -1,3 +1,5 @@
 Projekt do testów GITa
 
+1.wpis od user 2 
+2.wpis od user 2 
 1.wpis od user 1
